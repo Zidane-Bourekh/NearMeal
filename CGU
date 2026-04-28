@@ -1,2 +1,620 @@
+CONDITIONS GÉNÉRALES D'UTILISATION DE NEARMEAL
+Dernière mise à jour : [28/04/2026]
+Version : 1.0
 
-zefzefef
+ARTICLE 1 — INFORMATIONS LÉGALES
+Éditeur de l'application :
+
+Nom : Bourekh Zidane
+Adresse : 23 rue Beccaria, 75012 Paris, France
+Email : nearmeal.support@gmail.com
+Statut : Particulier exerçant une activité non commerciale
+
+Hébergement :
+
+Base de données : Supabase Inc.
+Backend : Railway Corp.
+Interface administrateur : Vercel Inc.
+
+
+ARTICLE 2 — DÉFINITIONS
+« NearMeal » ou « la Plateforme » : désigne l'application mobile et le service en ligne permettant la mise en relation de particuliers pour le partage de plats faits maison.
+« Utilisateur » : toute personne physique utilisant la Plateforme, qu'elle soit Vendeur ou Acheteur.
+« Vendeur » : Utilisateur proposant un plat fait maison à la vente.
+« Acheteur » : Utilisateur achetant un plat proposé par un Vendeur.
+« Plat » : préparation culinaire faite maison proposée à la vente par un Vendeur.
+« Transaction » : opération d'achat-vente d'un Plat entre un Acheteur et un Vendeur via la Plateforme.
+« Commission » : pourcentage prélevé par NearMeal sur chaque Transaction, dont le montant exact est affiché dans l'application.
+
+ARTICLE 3 — OBJET ET ACCEPTATION DES CGU
+Les présentes Conditions Générales d'Utilisation (« CGU ») régissent l'utilisation de la Plateforme NearMeal.
+3.1 Acceptation
+L'utilisation de la Plateforme implique l'acceptation pleine et entière des présentes CGU. Tout Utilisateur qui n'accepte pas ces CGU ne doit pas utiliser la Plateforme.
+En créant un compte, l'Utilisateur déclare :
+
+Avoir lu et compris les présentes CGU
+Les accepter sans réserve
+S'engager à les respecter
+
+3.2 Modification des CGU
+NearMeal se réserve le droit de modifier à tout moment les présentes CGU. Les Utilisateurs seront informés de toute modification par notification dans l'application et/ou par email.
+En cas de modification substantielle, l'Utilisateur sera invité à accepter les nouvelles CGU lors de sa prochaine connexion. Le refus d'accepter les nouvelles CGU entraînera l'impossibilité de continuer à utiliser la Plateforme.
+L'utilisation continue de la Plateforme après modification vaut acceptation des nouvelles CGU.
+
+ARTICLE 4 — INSCRIPTION ET COMPTE UTILISATEUR
+4.1 Conditions d'inscription
+Pour utiliser la Plateforme, l'Utilisateur doit :
+
+Être âgé d'au moins 13 ans révolus
+Fournir des informations exactes, complètes et à jour lors de l'inscription
+Créer un mot de passe sécurisé et le conserver confidentiel
+Ne créer qu'un seul compte par personne
+
+Les mineurs de 13 à 18 ans doivent obtenir l'autorisation de leurs parents ou représentants légaux pour utiliser la Plateforme.
+4.2 Vérification d'identité
+L'Utilisateur doit fournir une adresse email valide qui sera vérifiée lors de l'inscription. NearMeal se réserve le droit de demander des justificatifs d'identité en cas de doute sur l'authenticité d'un compte.
+4.3 Responsabilité du compte
+L'Utilisateur est seul responsable de l'utilisation de son compte et de la confidentialité de ses identifiants. Toute utilisation du compte est présumée être faite par son titulaire.
+En cas de perte, vol ou utilisation non autorisée du compte, l'Utilisateur doit en informer immédiatement NearMeal à l'adresse nearmeal.support@gmail.com.
+4.4 Interdictions
+Il est strictement interdit de :
+
+Créer un compte avec une fausse identité
+Usurper l'identité d'un tiers
+Créer plusieurs comptes pour la même personne
+Vendre, céder ou transférer son compte à un tiers
+Utiliser le compte d'un tiers sans autorisation
+
+
+ARTICLE 5 — DESCRIPTION DU SERVICE
+5.1 Rôle de la Plateforme
+NearMeal est une plateforme de mise en relation entre particuliers souhaitant partager des plats faits maison. La Plateforme permet aux Vendeurs de proposer leurs Plats et aux Acheteurs de les acheter.
+NearMeal agit uniquement en tant qu'intermédiaire technique. La Plateforme :
+
+Met en relation les Utilisateurs
+Facilite les paiements via Stripe
+Fournit un système de messagerie
+Gère les litiges selon les procédures définies
+
+NearMeal n'est PAS :
+
+Vendeur ou revendeur des Plats proposés
+Restaurateur ou traiteur
+Responsable de la préparation, qualité, ou livraison des Plats
+Partie contractante aux Transactions entre Utilisateurs
+
+5.2 Zone géographique
+Le service est actuellement disponible uniquement en France métropolitaine. Les Transactions se font entre Utilisateurs situés dans un périmètre géographique restreint (voisinage immédiat).
+5.3 Nature des Plats
+Les Plats proposés sur la Plateforme sont :
+
+Faits maison par des particuliers
+Destinés à un partage occasionnel entre voisins
+NON soumis à la réglementation des établissements commerciaux (les Vendeurs ne sont pas des professionnels de la restauration)
+
+
+ARTICLE 6 — OBLIGATIONS DES UTILISATEURS
+6.1 Obligations générales
+Tout Utilisateur s'engage à :
+
+Respecter les lois et règlements en vigueur
+Utiliser la Plateforme de bonne foi
+Fournir des informations exactes et à jour
+Adopter un comportement respectueux envers les autres Utilisateurs
+Ne pas utiliser la Plateforme à des fins commerciales ou professionnelles
+Signaler tout comportement inapproprié ou contenu illicite
+
+6.2 Obligations spécifiques du Vendeur
+Le Vendeur s'engage à :
+Concernant les Plats :
+
+Préparer les Plats dans des conditions d'hygiène strictes
+Utiliser des ingrédients sains, non périmés et propres à la consommation
+Respecter la chaîne du froid pour les denrées périssables
+Indiquer avec exactitude les allergènes présents (liste des 14 allergènes majeurs)
+Ne proposer que des Plats faits maison (interdiction de revendre des plats industriels ou de restaurant)
+Respecter le prix maximum fixé par portion (affiché dans l'application)
+Respecter la limite du nombre de portions par annonce
+
+Concernant les annonces :
+
+Publier des annonces véridiques et non trompeuses
+Utiliser des photos authentiques du Plat proposé (pas de photos d'illustration)
+Décrire précisément le Plat (ingrédients, poids approximatif, etc.)
+Indiquer clairement les modalités de remise (lieu, horaires)
+
+Concernant les Transactions :
+
+Honorer ses engagements envers les Acheteurs
+Remettre le Plat dans les conditions et délais annoncés
+Fournir le code de livraison uniquement après remise effective du Plat
+Ne pas solliciter de paiement en dehors de la Plateforme
+
+6.3 Obligations spécifiques de l'Acheteur
+L'Acheteur s'engage à :
+
+Payer le prix affiché pour le Plat commandé
+Se présenter au lieu et à l'heure convenus pour récupérer le Plat
+Communiquer le code de livraison au Vendeur uniquement après réception du Plat
+Signaler immédiatement tout problème de qualité ou de conformité
+Ne pas abuser du système de signalement ou de litiges
+
+6.4 Interdictions
+Il est strictement interdit à tout Utilisateur de :
+Contenus et comportements prohibés :
+
+Publier des contenus violents, haineux, diffamatoires, racistes, discriminatoires, pornographiques ou contraires aux bonnes mœurs
+Harceler, menacer, intimider ou insulter un autre Utilisateur
+Utiliser un langage grossier, injurieux ou abusif
+Publier des informations personnelles de tiers sans autorisation
+Usurper l'identité d'un tiers ou créer une fausse identité
+
+Pratiques frauduleuses :
+
+Manipuler les avis, notes ou commentaires
+Créer de fausses annonces
+Annuler de manière abusive ou répétée des commandes
+Tenter d'échapper aux commissions en effectuant des paiements hors Plateforme
+Utiliser des moyens de paiement frauduleux
+
+Atteintes au système :
+
+Tenter de contourner les mesures de sécurité
+Utiliser des robots, scripts ou autres moyens automatisés
+Extraire ou copier des données de la Plateforme
+Perturber le fonctionnement de la Plateforme
+
+Pratiques dangereuses :
+
+Proposer des denrées alimentaires avariées, périmées ou dangereuses pour la santé
+Proposer des substances illicites ou des produits interdits
+Dissimuler volontairement la présence d'allergènes
+Proposer des produits d'origine douteuse ou non tracés
+
+
+ARTICLE 7 — FONCTIONNEMENT DES TRANSACTIONS
+7.1 Publication d'une annonce
+Le Vendeur publie une annonce décrivant son Plat avec :
+
+Nom et description
+Photo
+Prix par portion (dans la limite du plafond fixé)
+Nombre de portions disponibles
+Allergènes présents
+Lieu et modalités de récupération
+
+L'annonce est visible uniquement par les Utilisateurs situés dans la zone géographique du Vendeur (voisinage immédiat).
+7.2 Passation de commande
+L'Acheteur passe commande en sélectionnant :
+
+Le Plat souhaité
+Le nombre de portions
+Le mode de paiement (carte bancaire ou solde NearMeal)
+
+La commande devient ferme après validation du paiement.
+7.3 Paiement
+Le paiement est effectué via la Plateforme et traité par notre prestataire de paiement sécurisé Stripe.
+Modes de paiement acceptés :
+
+Carte bancaire (autorisation immédiate, capture différée)
+Solde NearMeal (débit immédiat)
+
+Mécanisme de paiement sécurisé :
+
+En cas de paiement par carte : le montant est autorisé mais non débité immédiatement
+Le montant n'est capturé qu'après validation du code de livraison par le Vendeur
+En cas de paiement par solde : le montant est bloqué et sera transféré au Vendeur après validation
+
+7.4 Remise du Plat et validation
+
+L'Acheteur et le Vendeur conviennent du lieu et de l'heure de remise via la messagerie
+Lors de la remise, l'Acheteur vérifie le Plat
+L'Acheteur communique le code de livraison au Vendeur
+Le Vendeur saisit le code dans l'application pour valider la Transaction
+Le paiement est alors finalisé et le montant (net de commission) est crédité sur le solde du Vendeur
+
+7.5 Commission
+NearMeal prélève une commission sur chaque Transaction finalisée. Le taux de commission est affiché clairement dans l'application et peut varier. L'Utilisateur en est informé avant de finaliser une Transaction.
+Exemple : Pour un Plat vendu 5€ avec une commission de 10% :
+
+L'Acheteur paie 5€
+NearMeal prélève 0,50€
+Le Vendeur reçoit 4,50€ sur son solde
+
+7.6 Annulation
+Par l'Acheteur :
+
+L'Acheteur peut annuler une commande dans les 3 heures suivant l'achat
+Le remboursement est automatique (retour sur le mode de paiement initial)
+
+Après 3 heures :
+
+L'annulation n'est plus possible sans accord du Vendeur
+En cas de non-remise du Plat, l'Acheteur doit ouvrir un litige (voir Article 11)
+
+Par le Vendeur :
+
+Le Vendeur peut annuler en retirant son annonce
+Si des commandes sont en cours, elles sont annulées automatiquement et les Acheteurs remboursés
+
+7.7 Expiration automatique
+Les annonces expirent automatiquement 48 heures après leur publication. Le Vendeur est notifié 24 heures avant expiration.
+Les commandes non validées (code non saisi) sont annulées automatiquement après 4 heures avec remboursement de l'Acheteur.
+
+ARTICLE 8 — SYSTÈME D'AVIS ET DE NOTATION
+8.1 Principe
+Après une Transaction finalisée (code validé), l'Acheteur et le Vendeur peuvent s'évaluer mutuellement.
+8.2 Critères de notation
+
+Note de 1 à 5 étoiles
+Commentaire optionnel (500 caractères maximum)
+
+8.3 Publication et modération
+Les avis sont publiés immédiatement et visibles sur le profil public de l'Utilisateur.
+NearMeal se réserve le droit de modérer ou supprimer tout avis :
+
+Contenant des propos injurieux, diffamatoires ou discriminatoires
+Révélant des informations personnelles
+Manifestement frauduleux ou de complaisance
+Sans rapport avec la Transaction
+
+8.4 Interdiction de manipulation
+Il est interdit de :
+
+Publier de faux avis
+Inciter à publier un avis positif en échange d'un avantage
+Créer plusieurs comptes pour manipuler sa notation
+Menacer un Utilisateur pour obtenir un avis favorable
+
+
+ARTICLE 9 — SOLDE NEARMEAL ET RETRAIT
+9.1 Alimentation du solde
+Le solde NearMeal d'un Utilisateur peut être alimenté par :
+
+Les ventes de Plats (après déduction de la commission)
+Les remboursements en cas de litige
+Les annulations de commandes payées par solde
+
+9.2 Utilisation du solde
+Le solde peut être utilisé pour :
+
+Acheter des Plats sur la Plateforme
+Être retiré sous forme d'argent (virement)
+
+9.3 Retrait d'argent
+Conditions :
+
+Montant minimum : affiché dans l'application (généralement 10€)
+Délai de traitement : jusqu'à 30 jours calendaires
+Traitement manuel par un administrateur
+
+Méthodes de retrait :
+
+Virement bancaire (IBAN)
+PayPal
+
+Procédure :
+
+L'Utilisateur fait une demande de retrait dans l'application
+Il indique ses coordonnées bancaires (IBAN) ou PayPal
+Un administrateur traite la demande manuellement
+L'Utilisateur reçoit un email de confirmation
+
+9.4 Blocage du solde
+NearMeal se réserve le droit de bloquer le solde d'un Utilisateur en cas de :
+
+Litige en cours
+Suspicion de fraude
+Non-respect des CGU
+Enquête en cours
+
+9.5 Expiration du solde en cas de suspension
+En cas de suspension ou de fermeture de compte pour non-respect des CGU :
+
+L'Utilisateur dispose de 30 jours pour retirer son solde
+Passé ce délai, le solde est définitivement perdu et acquis à NearMeal
+Cette perte de solde constitue une pénalité pour le non-respect des règles
+
+
+ARTICLE 10 — MESSAGERIE ET COMMUNICATION
+10.1 Système de chat
+La Plateforme met à disposition un système de messagerie permettant aux Acheteurs et Vendeurs de communiquer pour organiser la remise du Plat.
+10.2 Règles d'utilisation
+Les échanges doivent :
+
+Rester courtois et respectueux
+Porter uniquement sur la Transaction en cours
+Respecter la vie privée de chacun
+
+10.3 Modération
+NearMeal se réserve le droit d'accéder aux conversations pour :
+
+Traiter un litige
+Vérifier le respect des CGU
+Répondre à une réquisition judiciaire
+
+Les messages peuvent être modérés ou supprimés s'ils contreviennent aux présentes CGU.
+10.4 Conservation
+Les messages sont conservés pendant toute la durée de vie du compte, sauf suppression par l'Utilisateur ou obligation légale.
+
+ARTICLE 11 — LITIGES ET SIGNALEMENTS
+11.1 Ouverture d'un litige
+En cas de problème lors d'une Transaction, l'Acheteur peut ouvrir un litige directement depuis la commande dans l'application.
+Motifs de litige :
+
+Plat non reçu
+Plat non conforme à l'annonce
+Mauvaise qualité ou plat avarié
+Portions insuffisantes
+Denrée périmée ou suspecte
+Comportement inapproprié du Vendeur
+
+11.2 Procédure de traitement
+
+L'Acheteur ouvre un litige en sélectionnant un motif et en décrivant le problème
+Le Vendeur est notifié et peut répondre
+Un administrateur examine le litige manuellement
+Une décision est prise dans un délai de 48 à 72 heures ouvrées
+Les deux parties sont informées de la décision
+
+11.3 Décisions possibles
+
+Remboursement total de l'Acheteur (le solde du Vendeur est débité)
+Remboursement partiel
+Rejet du litige (pas de remboursement)
+Avertissement ou suspension du Vendeur ou de l'Acheteur
+
+11.4 Litiges abusifs
+L'ouverture répétée de litiges non fondés peut entraîner :
+
+Un avertissement
+La suspension du compte
+La fermeture définitive du compte
+
+11.5 Signalement d'un comportement inapproprié
+Tout Utilisateur peut signaler :
+
+Un comportement abusif (harcèlement, menaces, etc.)
+Un contenu inapproprié (photo, message, etc.)
+Une annonce frauduleuse
+Une violation des CGU
+
+Les signalements sont traités par un administrateur.
+
+ARTICLE 12 — SANCTIONS ET SUSPENSION
+12.1 Échelle des sanctions
+En cas de non-respect des présentes CGU, NearMeal peut appliquer les sanctions suivantes :
+Avertissement :
+
+Notification par email
+Inscription au dossier de l'Utilisateur
+Pas de conséquence immédiate
+
+Suspension temporaire :
+
+Durée déterminée (de 7 jours à 90 jours)
+Impossibilité d'utiliser la Plateforme pendant la durée de suspension
+Le solde reste accessible pour retrait
+
+Suspension définitive (bannissement) :
+
+Fermeture définitive du compte
+Interdiction de créer un nouveau compte
+Perte du solde après 30 jours (voir Article 9.5)
+
+12.2 Motifs de suspension immédiate
+Les comportements suivants entraînent une suspension immédiate, sans avertissement préalable :
+
+Proposition de denrées dangereuses ou impropres à la consommation (denrées périmées, avariées, contaminées)
+Activité frauduleuse (fausses annonces, manipulation de paiements, etc.)
+Harcèlement, menaces ou violences envers un autre Utilisateur
+Usurpation d'identité
+Utilisation de moyens de paiement frauduleux
+Violation grave de la loi (vente de produits illicites, etc.)
+
+12.3 Système de comptage des litiges
+Les litiges résolus en défaveur d'un Utilisateur sont comptabilisés :
+
+5 litiges perdus en 90 jours : avertissement automatique
+10 litiges perdus en 90 jours : suspension automatique du compte
+
+12.4 Procédure contradictoire
+Sauf en cas de danger immédiat, NearMeal informe l'Utilisateur des griefs retenus contre lui et lui permet de présenter ses observations avant de prendre une sanction définitive.
+12.5 Recours
+L'Utilisateur peut contester une sanction en écrivant à nearmeal.support@gmail.com dans un délai de 15 jours. La contestation sera examinée et une réponse motivée sera apportée.
+
+ARTICLE 13 — RESPONSABILITÉS ET GARANTIES
+13.1 Responsabilité de NearMeal
+Rôle d'intermédiaire :
+NearMeal agit uniquement en tant qu'intermédiaire technique. La Plateforme met en relation des Utilisateurs mais ne participe pas aux Transactions et n'est pas partie contractante.
+NearMeal n'est PAS responsable :
+Concernant les Plats :
+
+De la qualité, fraîcheur, goût ou conformité des Plats proposés
+Des intoxications alimentaires ou problèmes de santé résultant de la consommation d'un Plat
+De la présence d'allergènes non déclarés ou d'ingrédients cachés
+Des conditions de préparation, stockage ou transport des Plats par les Vendeurs
+Du respect des normes d'hygiène par les Vendeurs (les Vendeurs ne sont pas des professionnels soumis aux règles sanitaires des établissements commerciaux)
+
+Concernant les Utilisateurs :
+
+Des comportements des Utilisateurs entre eux
+Des annonces trompeuses ou frauduleuses publiées par les Vendeurs
+Des non-paiements, annulations abusives ou manquements contractuels
+Des litiges entre Utilisateurs non résolus de manière amiable
+
+Concernant le service :
+
+Des interruptions de service, bugs ou dysfonctionnements techniques
+De la perte de données due à un événement indépendant de sa volonté
+Des actes de piratage ou intrusions malveillantes de tiers
+De l'utilisation frauduleuse de la Plateforme par des tiers
+
+Limitation de responsabilité :
+En tout état de cause, la responsabilité de NearMeal est limitée au montant de la commission perçue sur la Transaction concernée.
+NearMeal ne pourra en aucun cas être tenue responsable des dommages indirects tels que perte de profit, perte de clientèle, perte de données, préjudice commercial, etc.
+13.2 Responsabilité des Utilisateurs
+Responsabilité du Vendeur :
+Le Vendeur est seul responsable :
+
+De la qualité, salubrité et conformité des Plats qu'il propose
+Du respect des règles d'hygiène et de sécurité alimentaire
+De l'exactitude des informations fournies dans ses annonces (description, allergènes, etc.)
+Des conséquences de la consommation de ses Plats (intoxications, allergies, etc.)
+Du respect de la réglementation en vigueur
+
+Le Vendeur garantit :
+
+Que les Plats sont propres à la consommation humaine
+Qu'ils ont été préparés dans des conditions d'hygiène satisfaisantes
+Qu'ils ne contiennent pas de substances interdites ou dangereuses
+Que les allergènes sont correctement déclarés
+
+En cas de réclamation ou d'action en justice concernant un Plat, le Vendeur assume seul la responsabilité et s'engage à garantir et indemniser NearMeal de toute condamnation ou réclamation.
+Responsabilité de l'Acheteur :
+L'Acheteur est responsable :
+
+De vérifier le Plat avant consommation
+De signaler immédiatement tout problème apparent (odeur suspecte, aspect douteux, etc.)
+De respecter les conditions de conservation indiquées par le Vendeur
+De ne pas consommer un Plat dont il doute de la qualité
+
+L'Acheteur consomme le Plat à ses risques et périls et ne pourra tenir NearMeal responsable d'une quelconque conséquence sanitaire.
+13.3 Mise en garde spécifique — Sécurité alimentaire
+⚠️ AVERTISSEMENT IMPORTANT :
+Les Plats proposés sur NearMeal sont préparés par des particuliers, non soumis aux contrôles sanitaires applicables aux professionnels de la restauration.
+NearMeal recommande vivement :
+
+De vérifier l'aspect, l'odeur et la température du Plat avant consommation
+De ne pas consommer un Plat qui semble suspect
+De consulter attentivement la liste des allergènes
+De signaler immédiatement tout problème
+
+En cas de doute sur la qualité ou la salubrité d'un Plat, NE PAS LE CONSOMMER et contacter immédiatement NearMeal.
+Les Utilisateurs, notamment les personnes fragiles (femmes enceintes, jeunes enfants, personnes âgées, personnes immunodéprimées), doivent être particulièrement vigilants.
+13.4 Cas d'exclusion — Plats dangereux
+Constitue un motif de suspension immédiate et définitive, sans préavis ni remboursement du solde :
+
+La proposition répétée de plats manifestement dangereux pour la santé
+La dissimulation volontaire d'allergènes majeurs
+La vente de denrées périmées, avariées ou contaminées en connaissance de cause
+Le non-respect caractérisé des règles élémentaires de sécurité alimentaire (absence de réfrigération, conditions insalubres, etc.)
+
+NearMeal se réserve le droit de signaler aux autorités compétentes (DGCCRF, ARS, etc.) tout comportement mettant en danger la santé publique.
+
+ARTICLE 14 — PROPRIÉTÉ INTELLECTUELLE
+14.1 Éléments de la Plateforme
+La Plateforme, son contenu (textes, graphismes, logo, icônes, etc.), sa structure et son code source sont la propriété exclusive de Bourekh Zidane, sauf mentions contraires.
+Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie de la Plateforme est interdite sans autorisation préalable écrite.
+14.2 Contenus des Utilisateurs
+Les Utilisateurs conservent tous les droits sur les contenus qu'ils publient (photos, descriptions, messages, etc.).
+En publiant du contenu, l'Utilisateur accorde à NearMeal une licence mondiale, non exclusive, gratuite et transférable pour :
+
+Afficher, reproduire et diffuser le contenu sur la Plateforme
+Modifier le contenu pour des raisons techniques (redimensionnement d'images, etc.)
+Utiliser le contenu à des fins de communication ou promotion de la Plateforme
+
+Cette licence prend fin lorsque l'Utilisateur supprime le contenu ou ferme son compte (sauf si le contenu a été partagé par d'autres Utilisateurs).
+14.3 Marques
+« NearMeal » et le logo associé sont des marques déposées ou en cours de dépôt. Toute utilisation non autorisée est interdite.
+
+14.4 Données personnelles
+Les données personnelles des Utilisateurs sont traitées conformément à notre Politique de confidentialité, disponible dans l'application et accessible à tout moment en ligne : https://github.com/Zidane-Bourekh/NearMeal/blob/main/Politique%20de%20confidentialit%C3%A9.
+
+ARTICLE 15 — RÉSILIATION ET FERMETURE DE COMPTE
+15.1 Fermeture par l'Utilisateur
+L'Utilisateur peut fermer son compte à tout moment depuis les paramètres de l'application ou en contactant nearmeal.support@gmail.com.
+Conditions :
+
+Aucune Transaction en cours
+Aucun litige ouvert
+Le solde doit être nul ou avoir été retiré
+
+Conséquences :
+
+Suppression du compte et des données personnelles (sauf obligation légale de conservation)
+Perte définitive du solde non retiré
+Impossibilité de récupérer les contenus publiés
+
+15.2 Fermeture par NearMeal
+NearMeal peut fermer un compte en cas de :
+
+Non-respect des présentes CGU
+Inactivité prolongée (plus de 2 ans sans connexion)
+Demande de l'autorité judiciaire ou administrative
+Cessation d'activité de la Plateforme
+
+Notification :
+
+L'Utilisateur sera informé par email 30 jours avant la fermeture (sauf urgence)
+Le solde restant peut être retiré pendant ce délai
+
+
+ARTICLE 16 — MODIFICATIONS DE LA PLATEFORME
+16.1 Évolution du service
+NearMeal se réserve le droit de :
+
+Modifier les fonctionnalités de la Plateforme
+Ajouter ou supprimer des services
+Faire évoluer l'interface
+Modifier le taux de commission (notification préalable obligatoire)
+
+16.2 Maintenance et interruptions
+NearMeal peut interrompre temporairement l'accès à la Plateforme pour :
+
+Maintenance programmée
+Mises à jour techniques
+Situations d'urgence (sécurité, bugs critiques, etc.)
+
+NearMeal s'efforcera de minimiser ces interruptions et d'en informer les Utilisateurs à l'avance.
+16.3 Cessation d'activité
+En cas de cessation définitive de la Plateforme :
+
+Les Utilisateurs seront informés au moins 3 mois à l'avance
+Les soldes restants pourront être retirés pendant ce délai
+Passé ce délai, les soldes non retirés seront perdus
+
+
+ARTICLE 17 — DISPOSITIONS GÉNÉRALES
+17.1 Intégralité des CGU
+Les présentes CGU constituent l'intégralité de l'accord entre NearMeal et l'Utilisateur. Elles remplacent tout accord, négociation ou discussion antérieure.
+17.2 Nullité partielle
+Si une disposition des présentes CGU est déclarée nulle ou inapplicable, les autres dispositions restent pleinement en vigueur.
+17.3 Absence de renonciation
+Le fait pour NearMeal de ne pas exercer un droit ou une action prévue par les présentes CGU ne constitue pas une renonciation à ce droit.
+17.4 Cession
+L'Utilisateur ne peut céder ses droits ou obligations découlant des présentes CGU sans l'accord préalable écrit de NearMeal.
+NearMeal peut librement céder tout ou partie de ses droits et obligations, notamment en cas de cession d'activité.
+17.5 Force majeure
+NearMeal ne pourra être tenue responsable d'un manquement à ses obligations en cas de force majeure (catastrophe naturelle, guerre, émeute, attentat, incendie, grève, défaillance des réseaux de télécommunication, etc.).
+
+ARTICLE 18 — LOI APPLICABLE ET JURIDICTION
+18.1 Droit applicable
+Les présentes CGU sont régies par le droit français.
+18.2 Médiation
+En cas de litige, l'Utilisateur peut recourir à une médiation de la consommation conformément à l'article L. 612-1 du Code de la consommation.
+Le médiateur compétent est :
+
+Nom : À défaut de médiateur désigné à la date de ces CGU, les parties conviennent de soumettre tout litige à la médiation proposée par la CNIL ou de saisir la plateforme de RLL en ligne
+Site web : https://ec.europa.eu/consumers/odr/
+
+L'Utilisateur peut également utiliser la plateforme européenne de règlement en ligne des litiges : https://ec.europa.eu/consumers/odr/
+18.3 Juridiction compétente
+En cas d'échec de la médiation, tout litige sera porté devant les tribunaux compétents de Paris, sauf disposition légale contraire en faveur des consommateurs.
+
+ARTICLE 19 — CONTACT ET SUPPORT
+Pour toute question, réclamation ou demande d'information concernant la Plateforme ou les présentes CGU :
+Email : nearmeal.support@gmail.com
+Adresse postale :
+Bourekh Zidane
+23 rue Beccaria
+75012 Paris
+France
+Délai de réponse : NearMeal s'engage à répondre dans un délai de 72 heures ouvrées maximum.
+
+ACCEPTATION DES CGU
+En cochant la case « J'accepte les Conditions Générales d'Utilisation » lors de la création de votre compte, vous reconnaissez avoir lu, compris et accepté l'intégralité des présentes CGU.
+Date de dernière mise à jour : [28/04/2026]
+Version : 1.0
+
+FIN DES CONDITIONS GÉNÉRALES D'UTILISATION
